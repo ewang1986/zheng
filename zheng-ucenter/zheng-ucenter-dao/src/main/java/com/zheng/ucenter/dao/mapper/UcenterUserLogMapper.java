@@ -5,6 +5,9 @@ import com.zheng.ucenter.dao.model.UcenterUserLogExample;
 import java.util.List;
 import org.apache.ibatis.annotations.Param;
 
+/**
+ * 好好学习 天天向上
+ */
 public interface UcenterUserLogMapper {
     long countByExample(UcenterUserLogExample example);
 
